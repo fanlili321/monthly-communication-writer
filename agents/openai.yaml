@@ -1,0 +1,4 @@
+interface:
+  display_name: "月度沟通填写"
+  short_description: "结合历史模板、当月工作记录和实际产出，填写并核验月度沟通"
+  default_prompt: "使用 $monthly-communication-writer 读取本月工作记录，生成并保存本月月度沟通。"
